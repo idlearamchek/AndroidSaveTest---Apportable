@@ -827,6 +827,10 @@
             "type": "iquote"
         }, 
         {
+            "header_path": "/var/folders/tm/v3nwwt995p52ztk1kdkj76j40000gn/T/tmphwVY0Q/BUILT_PRODUCTS_DIR/include", 
+            "type": "I"
+        }, 
+        {
             "header_path": "AndroidSaveTest/libs/kazmath/include", 
             "type": "I"
         }, 
@@ -848,6 +852,14 @@
         }, 
         {
             "header_path": "AndroidSaveTest/libs/cocos2d/Platforms/Mac", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/tm/v3nwwt995p52ztk1kdkj76j40000gn/T/tmphwVY0Q/DERIVED_FILE_DIR/armv7", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/tm/v3nwwt995p52ztk1kdkj76j40000gn/T/tmphwVY0Q/DERIVED_FILE_DIR", 
             "type": "I"
         }
     ], 
@@ -1654,7 +1666,10 @@
             "source": "AndroidSaveTest/libs/kazmath/src/vec4.c"
         }
     ], 
+    "storyboards": [], 
     "type": "app", 
-    "version": "1", 
-    "xcode_project": "AndroidSaveTest.xcodeproj"
+    "version": "3", 
+    "xcdatamodels": [], 
+    "xcode_project": "AndroidSaveTest.xcodeproj", 
+    "xibs": []
 }

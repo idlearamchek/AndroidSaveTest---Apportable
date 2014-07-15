@@ -10,7 +10,7 @@
 #import "SceneMainMenu.h"
 #import "DontRunAppDelegate.h"
 
-#define APPORTABLE_SDK_1_0_34 YES
+#define APPORTABLE_SDK_1_0_34 NO
 #define APPORTABLE_SDK_1_1_13 !APPORTABLE_SDK_1_0_34
 
 
@@ -53,7 +53,7 @@
     NSString * strVersion = @"version 1.0.34";
     
     if(APPORTABLE_SDK_1_1_13){
-        strVersion = @"vesion 1.1.13";
+        strVersion = @"version 1.1.13";
     }
     
     CCLabelBMFont * labelTitle = [CCLabelBMFont labelWithString:strVersion fntFile:@"bd_cartoon_font.fnt"];
